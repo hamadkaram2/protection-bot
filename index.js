@@ -33,8 +33,8 @@ const dateFormat = require('dateformat');
 
 
 
-const prefix = ""
-const developers = ""
+const prefix = "$"
+const developers = "485760257126301696"
 
 ////////
 
@@ -384,4 +384,4 @@ if (message.content.startsWith(prefix + 'help')) {
 
 
 
-client.login("");
+client.login("Njk4ODUzNzk0NzUwMTM2MzMw.XpL4UA.0RgNMBOuZ8qPqWL6wLqIM3OYi9A");
